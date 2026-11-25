@@ -1,0 +1,15 @@
+ACESSO - ÁREA DOS PROFESSORES (Núcleo Viva)
+============================================
+
+Endereço (com o site rodando):  http://localhost:3000/#admin
+Usuário:  admin
+Senha:    pwzD76BrmqXsv2Mx
+
+IMPORTANTE
+- Troque esta senha no primeiro acesso: painel > aba "Senha".
+- A nova senha precisa ter no mínimo 12 caracteres.
+- Para cada professor, crie um acesso próprio na aba "Usuários".
+- Não compartilhe este arquivo nem o arquivo config/application.properties publicamente.
+
+Onde a senha fica guardada: config/application.properties
+(ela só é usada para criar o administrador na primeira vez que o site inicia).
